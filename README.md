@@ -1,4 +1,4 @@
-Клонируйте репоиторий коммандой git clone https://github.com/Mihandro/HelloWorld.git
+Клонируйте репоиторий коммандой git clone https://github.com/Mihandro/HomeWork3.git
 
 В коммандной строке вызовите комманду gradle wrapper
 
